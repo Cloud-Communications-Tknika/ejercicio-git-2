@@ -15,5 +15,3 @@ Ejericio en Grupos de 3-4:
 6- Revisa y aprueba el pull request del otro comentario.
 
 7- Una vez aprueben tu pull request realiza el merge.
-
-8- Cread cada uno una rama distinta, modificad la primera línea de introduccion.txt, e id siguiendo el mismo proceso que antes, a partir del segundo pull request tendreís confictos RESOLVEDLOS.
