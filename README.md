@@ -1,6 +1,6 @@
 # ejercicio git 2
 
-Ejericio en Grupos de 3-4:
+Ejercicio en Grupos de 3-4:
 
 1- Proteged la rama main (Se le dará permiso de administrados a un alumno) para que no se puedan realizar push, solo mediante pull requests y aprobados por al menos 1 persona.
 
